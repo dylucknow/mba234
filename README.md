@@ -598,9 +598,9 @@ Indian industries stand at a crossroads: global disruptions demand agility, but 
 | Ch 7: Conclusion & Recommendations | 2,500 | 4,000 | 12 |
 | Ch 8: References | – | – | 8 |
 | Appendices | – | – | 10 |
-| **Total** | **30,000** | **36,000** | **~120 pages** |
+| **Total** | **30,000** | **36,000** | **~100–120 pages** |
 
-*Assuming 300 words per page, Times New Roman 12pt double‑spaced.
+*Assuming 300 words per page, Times New Roman 12pt, double‑spaced.*
 
 ---
 
