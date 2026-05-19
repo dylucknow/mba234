@@ -545,9 +545,6 @@ Indian industries stand at a crossroads: global disruptions demand agility, but 
 - PM Gati Shakti National Master Plan. (2021). *PM Gati Shakti: National master plan for multimodal connectivity*. https://www.gatishakti.gov.in/
 - World Bank. (2023). *Connecting to compete 2023: Trade logistics in an uncertain global economy*. https://lpi.worldbank.org/
 
-**Dissertations & Conferences**
-- Use only verifiable theses, conference papers, and working papers from credible databases or university repositories. Do not invent unpublished dissertations.
-
 ---
 
 ## APPENDICES
@@ -617,7 +614,7 @@ Generation rules:
 
 1. **Generate in order** – Start with Title Page, then Declaration, TOC, Lists, then Chapter 1.
 2. **Academic tone** – Third person, past tense for methodology, present tense for established theory.
-3. **Citations and references** – Use accurate APA 7 citations throughout; every citation must appear in the reference list and no source may be fabricated.
+3. **Citations and references** – Use accurate APA 7 citations throughout; every citation must appear in the reference list, no source may be fabricated, and any theses or conference papers must come from verifiable repositories.
 4. **Tables & figures** – Create realistic tables/figures where needed and keep numbering cross-referenced correctly.
 5. **Length control** – Expand thin sections with literature, analysis, or examples; condense repetitive passages.
 6. **Synthetic data** – For Chapter 5, keep simulated means, SDs, coefficients, and p-values plausible and logically aligned with the argument.
