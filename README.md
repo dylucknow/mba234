@@ -1,6 +1,6 @@
 # Thesis Generation Blueprint: Comparative Analysis of Lean and Agile Supply Chains in Indian Industries
 
-> **Target Output:** Complete MBA thesis of approximately 120 pages (≈30,000–36,000 words), written in a DOCX-ready academic format  
+> **Target Output:** Complete MBA thesis of approximately 100–120 pages (≈30,000–36,000 words), written in a DOCX-ready academic format  
 > **Tool:** GitHub Copilot Agent (or any AI writing assistant)  
 > **Instructions:** Use this `readme.md` as the master template. Generate each chapter sequentially following the outlined structure, word/page targets, and content prompts. Maintain academic tone, use accurate APA 7th edition in-text citations and references, keep the writing free from editorial placeholders, and format the draft so it can be transferred directly into a DOCX thesis file.
 
