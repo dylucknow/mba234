@@ -520,7 +520,7 @@ Indian industries stand at a crossroads: global disruptions demand agility, but 
 # Chapter 8: Bibliography / References
 **Target Word Count: N/A (listing only)**
 
-**APA 7th Edition** (sample entries – expand to 80+ sources and ensure every in-text citation appears in this list)
+**APA 7th Edition** (sample entries – expand to 80+ sources and ensure all in-text citations and reference entries match one-to-one)
 
 **Books & Book Chapters**
 - Goldman, S. L., Nagel, R. N., & Preiss, K. (1995). *Agile competitors and virtual organizations: Strategies for enriching the customer*. Van Nostrand Reinhold.
@@ -608,13 +608,30 @@ Indian industries stand at a crossroads: global disruptions demand agility, but 
 
 Use the following master prompt when generating the thesis draft:
 
-> Write a complete MBA thesis titled **“Comparative Analysis of Lean and Agile Supply Chains in Indian Industries”** by following the structure, chapter sequence, word targets, tables, figures, and appendices in this README exactly. Deliver the draft in **DOCX-ready format** with clear Heading 1/2/3 hierarchy, page-break markers between major sections, Roman numerals for preliminary pages, Arabic page numbering from Chapter 1 onward, table captions above tables, figure captions below figures, and consistent Times New Roman 12 pt, double-spaced formatting instructions. Maintain a formal academic tone, use only **verifiable APA 7th edition in-text citations**, and include a matching APA 7 reference list in alphabetical order with DOI or stable URL where available. Support all substantive claims with real sources, especially in the literature review, methodology rationale, findings discussion, and policy implications. Do **not** insert any bracketed editorial notes, placeholder reminders, or unfinished citation prompts anywhere in the thesis. Where empirical data are simulated for illustration, label them clearly as **Author’s analysis based on survey simulation** and keep the numbers realistic and internally consistent across the text, tables, and figures. Ensure all table and figure numbering matches the front matter lists, all research questions and hypotheses are answered in later chapters, and the final output is polished enough to be pasted directly into a Word document with minimal editing.
+> Write a complete MBA thesis titled **“Comparative Analysis of Lean and Agile Supply Chains in Indian Industries”** by following this README exactly.
+>
+> **Output requirements**
+> 1. Produce a **DOCX-ready thesis draft** with clear Heading 1/2/3 hierarchy, page-break markers between major sections, Roman numerals for preliminary pages, and Arabic page numbering from Chapter 1 onward.
+> 2. Use consistent thesis-formatting instructions suitable for Word: Times New Roman 12 pt, double spacing, table captions above tables, and figure captions below figures.
+>
+> **Research and citation requirements**
+> 3. Maintain a formal academic tone and support substantive claims with **verifiable APA 7th edition in-text citations**.
+> 4. Include a matching APA 7 reference list in alphabetical order, with DOI or stable URL where available.
+> 5. Do not fabricate sources. Ensure every in-text citation appears in the reference list and every reference entry is cited in the thesis body.
+>
+> **Writing and data requirements**
+> 6. Do not insert bracketed editorial notes, placeholder reminders, or unfinished citation prompts anywhere in the thesis.
+> 7. If simulated data are used for illustration, label them clearly as **Author’s analysis based on survey simulation** and keep the numbers realistic and internally consistent across the text, tables, and figures.
+> 8. Ensure all table and figure numbering matches the front matter lists, and ensure all research questions and hypotheses are answered in later chapters.
+>
+> **Quality expectation**
+> 9. The final draft should be polished enough to be pasted directly into a Word document with minimal editing.
 
 Generation rules:
 
 1. **Generate in order** – Start with Title Page, then Declaration, TOC, Lists, then Chapter 1.
 2. **Academic tone** – Third person, past tense for methodology, present tense for established theory.
-3. **Citations and references** – Use accurate APA 7 citations throughout; every citation must appear in the reference list, no source may be fabricated, and any theses or conference papers must come from verifiable repositories.
+3. **Citations and references** – Use accurate APA 7 citations throughout; every citation must appear in the reference list, no source may be fabricated, and any theses or conference papers must come from verifiable repositories such as ProQuest, IEEE Xplore, Scopus-indexed proceedings, or institutional digital libraries.
 4. **Tables & figures** – Create realistic tables/figures where needed and keep numbering cross-referenced correctly.
 5. **Length control** – Expand thin sections with literature, analysis, or examples; condense repetitive passages.
 6. **Synthetic data** – For Chapter 5, keep simulated means, SDs, coefficients, and p-values plausible and logically aligned with the argument.
