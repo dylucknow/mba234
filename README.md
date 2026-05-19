@@ -1,8 +1,8 @@
 # Thesis Generation Blueprint: Comparative Analysis of Lean and Agile Supply Chains in Indian Industries
 
-> **Target Output:** Complete MBA thesis of approximately 120 pages (≈30,000–36,000 words)  
+> **Target Output:** Complete MBA thesis of approximately 120 pages (≈30,000–36,000 words), written in a DOCX-ready academic format  
 > **Tool:** GitHub Copilot Agent (or any AI writing assistant)  
-> **Instructions:** Use this `readme.md` as the master template. Generate each chapter sequentially following the outlined structure, word/page targets, and content prompts. Maintain academic tone, APA 7th edition citations, include tables/figures where indicated, and ensure logical flow.
+> **Instructions:** Use this `readme.md` as the master template. Generate each chapter sequentially following the outlined structure, word/page targets, and content prompts. Maintain academic tone, use accurate APA 7th edition in-text citations and references, keep the writing free from editorial placeholders, and format the draft so it can be transferred directly into a DOCX thesis file.
 
 ---
 
@@ -520,27 +520,33 @@ Indian industries stand at a crossroads: global disruptions demand agility, but 
 # Chapter 8: Bibliography / References
 **Target Word Count: N/A (listing only)**
 
-**APA 7th Edition** (sample entries – expand to 80+ sources)
+**APA 7th Edition** (sample entries – expand to 80+ sources and ensure every in-text citation appears in this list)
 
 **Books & Book Chapters**
+- Goldman, S. L., Nagel, R. N., & Preiss, K. (1995). *Agile competitors and virtual organizations: Strategies for enriching the customer*. Van Nostrand Reinhold.
 - Barney, J. B., & Hesterly, W. S. (2019). *Strategic management and competitive advantage* (6th ed.). Pearson.
 - Christopher, M. (2016). *Logistics & supply chain management* (5th ed.). Pearson.
 - Womack, J. P., & Jones, D. T. (2003). *Lean thinking* (2nd ed.). Free Press.
 
 **Peer‑Reviewed Journals**
-- Gunasekaran, A., Subramanian, N., & Ngai, E. W. T. (2021). Lean supply chain management in emerging economies: A systematic review. *International Journal of Production Research*, 59(8), 2456–2486.
-- Mason‑Jones, R., Naylor, B., & Towill, D. R. (2000). Lean, agile or leagile? Matching your supply chain to the marketplace. *International Journal of Production Research*, 38(17), 4061–4070.
-- Naylor, J. B., Naim, M. M., & Berry, D. (1999). Leagility: Integrating the lean and agile manufacturing paradigms. *International Journal of Production Economics*, 62(1–2), 107–118.
-- Sahay, B. S., & Gupta, R. (2022). Agile logistics in Indian e‑commerce: An empirical study. *Journal of Supply Chain Management in Emerging Economies*, 8(1), 44–67.
-- Venkatesh, V. G., Zhang, A., & Luthra, S. (2024). Infrastructure as a moderator in supply chain agility. *Transportation Research Part E*, 181, 103–119.
+- Barney, J. (1991). Firm resources and sustained competitive advantage. *Journal of Management*, *17*(1), 99–120.
+- Christopher, M., & Towill, D. R. (2001). An integrated model for the design of agile supply chains. *International Journal of Physical Distribution & Logistics Management*, *31*(4), 235–246.
+- Fisher, M. L. (1997). What is the right supply chain for your product? *Harvard Business Review*, *75*(2), 105–116.
+- Mason‑Jones, R., Naylor, B., & Towill, D. R. (2000). Lean, agile or leagile? Matching your supply chain to the marketplace. *International Journal of Production Research*, *38*(17), 4061–4070.
+- Naylor, J. B., Naim, M. M., & Berry, D. (1999). Leagility: Integrating the lean and agile manufacturing paradigms in the total supply chain. *International Journal of Production Economics*, *62*(1–2), 107–118.
+- Shah, R., & Ward, P. T. (2007). Defining and developing measures of lean production. *Journal of Operations Management*, *25*(4), 785–805.
+- Swafford, P. M., Ghosh, S., & Murthy, N. (2006). The antecedents of supply chain agility of a firm: Scale development and model testing. *Journal of Operations Management*, *24*(2), 170–188.
+- Teece, D. J., Pisano, G., & Shuen, A. (1997). Dynamic capabilities and strategic management. *Strategic Management Journal*, *18*(7), 509–533.
+- Towill, D. R., & Christopher, M. (2002). The supply chain strategy conundrum: To be lean or agile or to be lean and agile? *International Journal of Logistics: Research and Applications*, *5*(3), 299–309.
 
 **Industry Reports**
-- Counterpoint Research. (2025). *India manufacturing and supply chain outlook 2025*.
-- IBEF. (2026). *Indian logistics and supply chain industry report*.
-- Ministry of Commerce, Government of India. (2025). *Logistics Ease Index 2025*.
+- Government of India, Ministry of Commerce and Industry. (2022). *National logistics policy*. https://commerce.gov.in/
+- Indian Brand Equity Foundation. (2025). *Logistics industry in India*. https://www.ibef.org/
+- PM Gati Shakti National Master Plan. (2021). *PM Gati Shakti: National master plan for multimodal connectivity*. https://www.gatishakti.gov.in/
+- World Bank. (2023). *Connecting to compete 2023: Trade logistics in an uncertain global economy*. https://lpi.worldbank.org/
 
 **Dissertations & Conferences**
-- Goyal, M. (2024). *Lean adoption in Indian SMEs* [Unpublished doctoral dissertation]. IIT Delhi.
+- Use only verifiable theses, conference papers, and working papers from credible databases or university repositories. Do not invent unpublished dissertations.
 
 ---
 
@@ -601,19 +607,25 @@ Indian industries stand at a crossroads: global disruptions demand agility, but 
 
 ---
 
-## Instructions for GitHub Copilot (or AI Writer)
+## Improved Command for GitHub Copilot (or AI Writer)
+
+Use the following master prompt when generating the thesis draft:
+
+> Write a complete MBA thesis titled **“Comparative Analysis of Lean and Agile Supply Chains in Indian Industries”** by following the structure, chapter sequence, word targets, tables, figures, and appendices in this README exactly. Deliver the draft in **DOCX-ready format** with clear Heading 1/2/3 hierarchy, page-break markers between major sections, Roman numerals for preliminary pages, Arabic page numbering from Chapter 1 onward, table captions above tables, figure captions below figures, and consistent Times New Roman 12 pt, double-spaced formatting instructions. Maintain a formal academic tone, use only **verifiable APA 7th edition in-text citations**, and include a matching APA 7 reference list in alphabetical order with DOI or stable URL where available. Support all substantive claims with real sources, especially in the literature review, methodology rationale, findings discussion, and policy implications. Do **not** insert any bracketed editorial notes, placeholder reminders, or unfinished citation prompts anywhere in the thesis. Where empirical data are simulated for illustration, label them clearly as **Author’s analysis based on survey simulation** and keep the numbers realistic and internally consistent across the text, tables, and figures. Ensure all table and figure numbering matches the front matter lists, all research questions and hypotheses are answered in later chapters, and the final output is polished enough to be pasted directly into a Word document with minimal editing.
+
+Generation rules:
 
 1. **Generate in order** – Start with Title Page, then Declaration, TOC, Lists, then Chapter 1.
-2. **Academic tone** – Third person, past tense for methodology, present for established findings.
-3. **Tables & figures** – Create placeholder data where real data unavailable (label as “Author’s analysis based on survey simulation”).
-4. **Citations** – Use APA 7 in‑text (Author, year). After each paragraph, add comment: `[Check citation accuracy]`.
-5. **Length control** – If a section is too short, expand with examples or sub‑sections. If too long, condense bullet points into prose.
-6. **Synthetic data** – For Chapter 5, generate realistic means, SDs, p‑values that reflect expected outcomes (e.g., Lean cost advantage p<0.01).
-7. **Cross‑referencing** – Ensure all table/figure numbers match the List of Tables/Figures.
-8. **Final check** – After generating all chapters, append a Checklist:
+2. **Academic tone** – Third person, past tense for methodology, present tense for established theory.
+3. **Citations and references** – Use accurate APA 7 citations throughout; every citation must appear in the reference list and no source may be fabricated.
+4. **Tables & figures** – Create realistic tables/figures where needed and keep numbering cross-referenced correctly.
+5. **Length control** – Expand thin sections with literature, analysis, or examples; condense repetitive passages.
+6. **Synthetic data** – For Chapter 5, keep simulated means, SDs, coefficients, and p-values plausible and logically aligned with the argument.
+7. **DOCX readiness** – Write in clean prose with no inline instructions to the writer, no comment tags, and no unfinished placeholders.
+8. **Final quality check** – Confirm:
    - [ ] All 8 chapters present.
    - [ ] At least 80 references.
-   - [ ] Minimum 10 tables, 10 figures.
+   - [ ] Minimum 10 tables and 10 figures.
    - [ ] Word count 25,000–39,000.
    - [ ] Appendices A–H included.
 
